@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" /Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++
 -- The C compiler identification is AppleClang 12.0.0.12000031
 -- The CXX compiler identification is AppleClang 12.0.0.12000031
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/cmake-build-debug
+-- Build files have been written to: /Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/cmake-build-debug

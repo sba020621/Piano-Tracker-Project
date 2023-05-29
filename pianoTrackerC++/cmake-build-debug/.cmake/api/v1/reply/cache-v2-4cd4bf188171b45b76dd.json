@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/cmake-build-debug"
+			"value" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -615,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM"
+			"value" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1207,7 +1207,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/cmake-build-debug"
+			"value" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/cmake-build-debug"
 		},
 		{
 			"name" : "pianoTracker_IS_TOP_LEVEL",
@@ -1231,7 +1231,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM"
+			"value" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++"
 		}
 	],
 	"kind" : "cache",

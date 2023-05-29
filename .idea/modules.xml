@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Piano-Tracker-Project.iml" filepath="$PROJECT_DIR$/.idea/Piano-Tracker-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pianoTracker.iml" filepath="$PROJECT_DIR$/.idea/pianoTracker.iml" />
     </modules>
   </component>
 </project>

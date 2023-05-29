@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/MusicPiece.cpp" "CMakeFiles/pianoTracker.dir/MusicPiece.cpp.o" "gcc" "CMakeFiles/pianoTracker.dir/MusicPiece.cpp.o.d"
-  "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/main.cpp" "CMakeFiles/pianoTracker.dir/main.cpp.o" "gcc" "CMakeFiles/pianoTracker.dir/main.cpp.o.d"
+  "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/MusicPiece.cpp" "CMakeFiles/pianoTracker.dir/MusicPiece.cpp.o" "gcc" "CMakeFiles/pianoTracker.dir/MusicPiece.cpp.o.d"
+  "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/main.cpp" "CMakeFiles/pianoTracker.dir/main.cpp.o" "gcc" "CMakeFiles/pianoTracker.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

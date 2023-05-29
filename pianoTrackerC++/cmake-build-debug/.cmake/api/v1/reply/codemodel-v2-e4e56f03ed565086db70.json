@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/cmake-build-debug",
-		"source" : "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM"
+		"build" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/cmake-build-debug",
+		"source" : "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++"
 	},
 	"version" : 
 	{

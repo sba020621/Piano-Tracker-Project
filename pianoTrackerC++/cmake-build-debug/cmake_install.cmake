@@ -1,4 +1,4 @@
-# Install script for directory: /Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM
+# Install script for directory: /Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/shanearwood/CLionProjects/pianoTracker 10.02.54 PM/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/shanearwood/Documents/GitHub/Piano-Tracker-Project/pianoTrackerC++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
