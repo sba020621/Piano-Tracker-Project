@@ -1,18 +1,19 @@
-import logo from './piano.jpeg';
 import './App.css';
 import { Grid } from '@mui/material';
+import Header from './components/header.js';
+import InProgress from './components/inprogress.js';
+import Repetoire from './components/repetoire.js';
 
 function App() {
   return (
     <div className="App">
-      <div className='header'>
-        <img src={logo} className='img'></img>
-        <h2>piano tracker</h2>
-      </div>
+      <Header></Header>
 
       <Grid className="App-header">
-        
+        <InProgress></InProgress>
+        <Repetoire></Repetoire>
 
+        
       </Grid>
 
     </div>

@@ -1,0 +1,19 @@
+{
+    "todos": [
+      {
+        "title": "Mathmentics",
+        "done": false,
+        "id": 2
+      },
+      {
+        "title": "Going to swim",
+        "done": false,
+        "id": 3
+      },
+      {
+        "title": "Learning to swim",
+        "done": false,
+        "id": 4
+      }
+    ]
+  }
