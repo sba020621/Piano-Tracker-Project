@@ -7,7 +7,7 @@ const Header = (props) => {
     return (
         <div className='header'>
         <img src={logo} className='img'></img>
-        <h2>piano tracker</h2>
+        <h1>piano tracker</h1>
       </div>
     )
 }

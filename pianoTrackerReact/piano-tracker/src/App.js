@@ -1,20 +1,33 @@
 import './App.css';
-import { Grid } from '@mui/material';
+import Completed from './components/completed';
 import Header from './components/header.js';
-import InProgress from './components/inprogress.js';
-import Repetoire from './components/repetoire.js';
+import InProgress from './components/inprogress';
+import {
+  Grid,
+  Menu,
+} from 'semantic-ui-react'
+import Tips from './components/tips';
+import Inspo from './components/inspo';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{backgroundColor: '#faf0e6'}}>
       <Header></Header>
+      <Grid container style={{ padding: '5em 0em' }}>
+        <Grid columns={2}>
+            <Grid.Column>
+             <InProgress></InProgress>
+            </Grid.Column>
+            <Grid.Column>
+              <Completed></Completed>
+            </Grid.Column>
+          </Grid>
+        </Grid>
 
-      <Grid className="App-header">
-        <InProgress></InProgress>
-        <Repetoire></Repetoire>
+      <Tips></Tips>
 
-        
-      </Grid>
+      <div style={{padding: '1em' }}></div>
+      <Inspo></Inspo>
 
     </div>
   );
