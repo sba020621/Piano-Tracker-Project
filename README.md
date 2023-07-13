@@ -8,4 +8,4 @@ Sample Run:
 ![](https://github.com/sba190007/Piano-Tracker-Project/blob/acb9571aa4ed8cfd8ce765d9413e6e464fae4922/C%2B%2BDemo1.png)
 ![](https://github.com/sba190007/Piano-Tracker-Project/blob/acb9571aa4ed8cfd8ce765d9413e6e464fae4922/C%2B%2BDemo2.png)
 
-**React:** Written in 2023, a webpage that allows the user to add pieces, delete pieces, and view their practice data, similar to the C++ program (in progress).
+**React:** Written in 2023, a webpage that displays in progress pieces, completed pieces, and some tips/inspiration, essentially a piano portfolio :) (in progress).
